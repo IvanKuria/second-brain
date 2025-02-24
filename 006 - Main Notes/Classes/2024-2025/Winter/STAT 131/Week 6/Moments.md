@@ -18,7 +18,7 @@ $$M(t) = E(e^Ut) = \frac{e^tb - e^ta}{t(b-a)}$$
 ## Sum of Independent R.V's
 - MGFs of a sum of independent r.v.s. If $X$ and $Y$ are independent, then the MGF of $X + Y$ is the product of the individual MGFs:
 $$M_{X+Y}(t) = M_X(t)M_Y(t)$$
-- This is true because if $X$ and $Y$ are independent, then $E(e^(X+Y) = E(e^tX)E(e^tY))$
+- This is true because if $X$ and $Y$ are independent, then $$E(e^t{(X+Y)} = E(e^tX)E(e^tY))$$
 
 ## MGF of location-scale transformation.
 -  if $X$ has MGF $M(t)$, then the MGF of $a + bX$ is:
