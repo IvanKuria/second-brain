@@ -11,4 +11,6 @@ Teacher: **Prof. Marcela
 
 # Moments
 - The $n$th moment of an r.v. $X$ is $E(X^n)$
-- Let be an r.v. with mean and variance . For any positive integer : the $n$th moment of $X$ is
+	- Let be an r.v. with mean $\mu$ and variance $\sigma^2$. For any positive integer : the $n$th moment of $X$ is **$E(X^n)$
+	- the $n$th central moment of $X$ is **$E((X- \mu) ^n)$
+	- the $n$th standardized moment of $X$ is **$E(\frac{(X- \mu)}{\sigma}) ^n)$ 
