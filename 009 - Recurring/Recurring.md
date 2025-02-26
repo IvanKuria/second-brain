@@ -6,7 +6,8 @@
 - [x] call Mom #family 🔁 every week on Monday ⏳ 2025-02-24 ✅ 2025-02-24
 - [x] call Mom #family 🔁 every week on Monday ⏳ 2025-02-17 ✅ 2025-02-18
 - [x] call Mom #family 🔁 every week on Monday ⏳ 2025-02-10 ✅ 2025-02-10
-- [ ] call dad #family 🔁 every week on Tuesday ⏳ 2025-02-25
+- [ ] call dad #family 🔁 every week on Tuesday ⏳ 2025-03-04
+- [x] call dad #family 🔁 every week on Tuesday ⏳ 2025-02-25 ✅ 2025-02-26
 - [x] call dad #family 🔁 every week on Tuesday ⏳ 2025-02-18 ✅ 2025-02-24
 - [x] call dad #family 🔁 every week on Tuesday ⏳ 2025-02-11 ✅ 2025-02-13
 - [ ] call Lawrence 🔁 every week on Thursday ⏳ 2025-02-27
