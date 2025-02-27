@@ -23,8 +23,8 @@
 
 ## 2025-2026
 
-| Fall 2025 | Winter 2026 | Spring 2026 |
-| --------- | ----------- | ----------- |
-| CSE 102   | CSE 101M    |             |
-| CSE 103   | CSE 114a    |             |
-| ECE 30    |             |             |
+| Fall 2025 | Winter 2026 | Spring 2026     |
+| --------- | ----------- | --------------- |
+| CSE 102   | CSE 101M    | Elective 1: CSE |
+| CSE 103   | CSE 114a    | Elective 2      |
+| ECE 30    | CSE 115a    | Elective 3      |
