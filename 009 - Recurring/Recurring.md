@@ -1,4 +1,5 @@
-- [ ] call Brian #family 🔁 every week on Wednesday 📅 2025-02-26
+- [ ] call Brian #family 🔁 every week on Wednesday 📅 2025-03-05
+- [x] call Brian #family 🔁 every week on Wednesday 📅 2025-02-26 ✅ 2025-03-01
 - [x] call Brian #family 🔁 every week on Wednesday 📅 2025-02-19 ✅ 2025-02-23
 - [x] call Brian #family 🔁 every week on Wednesday 📅 2025-02-12 ✅ 2025-02-12
 - [x] call Brian 🔁 every week on Wednesday 📅 2025-02-08 ✅ 2025-02-08
@@ -10,6 +11,7 @@
 - [x] call dad #family 🔁 every week on Tuesday ⏳ 2025-02-25 ✅ 2025-02-26
 - [x] call dad #family 🔁 every week on Tuesday ⏳ 2025-02-18 ✅ 2025-02-24
 - [x] call dad #family 🔁 every week on Tuesday ⏳ 2025-02-11 ✅ 2025-02-13
-- [ ] call Lawrence 🔁 every week on Thursday ⏳ 2025-02-27
+- [ ] call Lawrence 🔁 every week on Thursday ⏳ 2025-03-06
+- [x] call Lawrence 🔁 every week on Thursday ⏳ 2025-02-27 ✅ 2025-03-01
 - [x] call Lawrence 🔁 every week on Thursday ⏳ 2025-02-20 ✅ 2025-02-23
 - [x] call Lawrence 🔁 every week on Thursday ⏳ 2025-02-13 ✅ 2025-02-12
