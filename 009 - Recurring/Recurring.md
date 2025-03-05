@@ -11,7 +11,8 @@
 - [x] call dad #family 🔁 every week on Tuesday ⏳ 2025-02-25 ✅ 2025-02-26
 - [x] call dad #family 🔁 every week on Tuesday ⏳ 2025-02-18 ✅ 2025-02-24
 - [x] call dad #family 🔁 every week on Tuesday ⏳ 2025-02-11 ✅ 2025-02-13
-- [ ] call Lawrence 🔁 every week on Thursday ⏳ 2025-03-06
+- [ ] call Lawrence 🔁 every week on Thursday ⏳ 2025-03-13
+- [x] call Lawrence 🔁 every week on Thursday ⏳ 2025-03-06 ✅ 2025-03-04
 - [x] call Lawrence 🔁 every week on Thursday ⏳ 2025-02-27 ✅ 2025-03-01
 - [x] call Lawrence 🔁 every week on Thursday ⏳ 2025-02-20 ✅ 2025-02-23
 - [x] call Lawrence 🔁 every week on Thursday ⏳ 2025-02-13 ✅ 2025-02-12
