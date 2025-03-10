@@ -38,3 +38,6 @@ c) $$P(Y = 1|X = 0) = \frac{P(Y=1,X=0)}{P(X=0)}$$
 $$P(Y = 1, X = 0) = 1/4$$
 $$P(X = 0) = 13/24$$
  = $$\frac{1/4}{13/24} = 6/13$$
+d) Just show that for some $P(X=x, Y=y) \neq P_X(x)*P_Y(y)$ 
+$$P(X=0, Y=0) \neq P_X(0)*P_Y(0)$$ because
+$$1/6 \neq 13/24*7/24$$ 
