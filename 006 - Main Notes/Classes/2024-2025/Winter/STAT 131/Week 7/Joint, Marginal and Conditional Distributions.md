@@ -23,3 +23,13 @@ $$P(X=x) = \sum P(X=x, Y=y)$$
  - for conditional r.v.s X and Y, the conditional PMF of Y is given as X = x is:
 $$P(Y=y | X=x) = \frac{P(X=x|Y=y)}{P(X=x)}$$
 
+## Example
+![[Pasted image 20250310133305.png]]
+
+a) $$P(X = 0, Y=0) + P(X = 0, Y=1) = 1/6 + 1/4 = 5/12$$
+b) 
+$$P(Y = 0) = 1/6 + 1/8 = 7/24$$
+$$P(Y = 1) = 1/4 + 1/6 = 5/12$$
+$$P(Y = 2) = 1/8 + 1/6 = 7/24$$
+*If they don't sum up to 1, then you made a mistake somewhere!*
+
