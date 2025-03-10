@@ -51,4 +51,11 @@ $$1/6 \neq 13/24*7/24$$
 ![[Pasted image 20250310135119.png|400]]
 
 #### Example
-$$P(X < 3, 1 < Y, 4) = \int_1^4\int_-\inf$$
+$$P(X < 3, 1 < Y, 4) = \int_1^4\int_{-\infty}^3f_{X, Y}(x, y)dxdy$$
+
+## Marginal
+
+### Marginal PDF
+- for continuous r.v.s X and Y with joint PDF fx,y, the marginal PDF of X is:
+![[Pasted image 20250310135702.png | 400]]
+
