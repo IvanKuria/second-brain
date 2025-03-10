@@ -31,5 +31,10 @@ b)
 $$P(Y = 0) = 1/6 + 1/8 = 7/24$$
 $$P(Y = 1) = 1/4 + 1/6 = 5/12$$
 $$P(Y = 2) = 1/8 + 1/6 = 7/24$$
+![[Pasted image 20250310133837.png|400]]
 *If they don't sum up to 1, then you made a mistake somewhere!*
 
+c) $$P(Y = 1|X = 0) = \frac{P(Y=1,X=0)}{P(X=0)}$$
+$$P(Y = 1, X = 0) = 1/4$$
+$$P(X = 0) = 13/24$$
+ = $$\frac{1/4}{13/24} = 6/13$$
