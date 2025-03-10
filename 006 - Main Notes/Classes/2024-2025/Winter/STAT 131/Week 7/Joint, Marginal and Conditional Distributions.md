@@ -59,3 +59,18 @@ $$P(X < 3, 1 < Y, 4) = \int_1^4\int_{-\infty}^3f_{X, Y}(x, y)dxdy$$
 - for continuous r.v.s X and Y with joint PDF fx,y, the marginal PDF of X is:
 ![[Pasted image 20250310135702.png | 400]]
 
+## Conditional
+
+### Conditional PDF
+- for continuous r.v.s X and Y with joint PDF fx,y, the marginal PDF of Y given X=x is:
+![[Pasted image 20250310135932.png|400]]
+
+## Example
+![[Pasted image 20250310140019.png]]
+
+b) ![[Pasted image 20250310140357.png|600]]
+$$c/10 = 1, c = 10$$
+
+c)![[Pasted image 20250310140826.png]]
+
+ 
