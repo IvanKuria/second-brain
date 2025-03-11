@@ -73,4 +73,11 @@ $$c/10 = 1, c = 10$$
 
 c)![[Pasted image 20250310140826.png]]
 
- 
+ d) ![[Pasted image 20250310182754.png]]
+
+e) $$= \frac{P(Y\leq x/4, Y \leq x/2)}{P(Y \leq x/2)} = 4P(Y\leq x/4)$$
+*we ignore $Y \leq 2$ because* 
+![[Pasted image 20250310183519.png|400]]
+
+![[Pasted image 20250310183628.png|500]]
+
