@@ -8,11 +8,11 @@
 - if you want your notes to look like mine(kinda hard to know what they look like since you can only see them as they are on Github), this is everything that I have added to make my note taking experience better
 
 ### Community Plugins
-*Tasks* - helps me format my todos
-*Git* - the best life saver for helping me commit and push my notes to my repo. Can't believe I used to do this manually
-*Calendar* - just a simple calendar. Don't really use it much
-*Colored Tags* - makes my tags look better :)
-*File Explorer Note Count* - tells me the number of words and characters in a specific file
+- *Tasks* - helps me format my todos
+- *Git* - the best life saver for helping me commit and push my notes to my repo. Can't believe I used to do this manually
+- *Calendar* - just a simple calendar. Don't really use it much
+- *Colored Tags* - makes my tags look better :)
+- *File Explorer Note Count* - tells me the number of words and characters in a specific file
 
 ### Theme
-*Obsidian gruvbox* - best theme hands down
+- *Obsidian gruvbox* - best theme hands down
