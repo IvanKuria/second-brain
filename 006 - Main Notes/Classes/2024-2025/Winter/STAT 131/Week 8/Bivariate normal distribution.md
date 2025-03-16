@@ -34,7 +34,29 @@ $$Cov(X, Y) = 1/12 - (1/3)(1/3) = -1/36$$
 
 $ii) p(X, Y)$
 
-$$p(X, Y) = \frac{Cov(X, Y)}{\sqrt{Var(X)Var(Y)}} = \frac{1/36}{Var(X)}$$
+$$p(X, Y) = \frac{Cov(X, Y)}{\sqrt{Var(X)Var(Y)}} = \frac{-1/36}{Var(X)}$$
 *the reason it's only Var(X) in the denominator is because before we computed that E(X) = E(Y) which means they will have the same **variance**.*
 
-$$Var(X) = E(X^2) - (E(X))^2 = 1/6 - ($$
+$$Var(X) = E(X^2) - (E(X))^2$$
+$$E(X^2) = \int_0^1x^22(1-x)dx = 1/6$$
+$$ Var(X) = 1/6 - (1/3)^2 = 1/18$$
+$$p(X, Y) = -1/2$$
+
+
+
+# Bivariate Normal
+
+## Definition
+![[Pasted image 20250316134722.png]]
+
+## Example
+1. Let X and Y be jointly (bivariate) normal, with Var(X) = Var(Y). Show that the two random variables X + Y and X - Y and are independent.
+
+- Since X and Y are *jointly distributed* and X and Y are *normal*, we just need to show that $Cov(x + y, x - y) = 0$
+$$Cov(x + y, x - y) = Cov(x, x) - Cov(x , y) + Cov(y, x) - Cov(y, y)$$
+$$ = Var(x) - Var(y) = 0$$
+
+2. ![[Pasted image 20250316135335.png]]
+
+$i) P(X + Y > 0)$
+![[Pasted image 20250316135415.png|600]]
