@@ -60,3 +60,7 @@ $$ = Var(x) - Var(y) = 0$$
 
 $i) P(X + Y > 0)$
 ![[Pasted image 20250316135415.png|600]]
+
+$ii)$ Find a
+![[Pasted image 20250316135607.png]]
+
