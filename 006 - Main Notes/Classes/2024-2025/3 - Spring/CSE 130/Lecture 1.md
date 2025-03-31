@@ -8,3 +8,4 @@ Teacher: **Dr. Veenstra
 *Textbook* - principles of computer system design
 - [x] add textbook to source material 📅 2025-03-31 ✅ 2025-03-31
 
+- [ ] start asgn 1 📅 2025-03-31 
