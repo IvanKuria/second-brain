@@ -20,4 +20,8 @@ Teacher: **Prof. Nath
 - computing operations in parallel has led to more performance
 
 ## Performance via Pipelining
-- it's subset of parallelism  
+- it's subset of parallelism 
+- *analogy* - "For example, before fire engines, a “bucket brigade” would respond to a fire, which many cowboy movies show in response to a dastardly act by the villain. The townsfolk form a human chain to carry a water source to fire, as they could much more quickly move buckets up the chain instead of individuals running back and forth."(p.g 56)
+
+## Performance via Prediction
+- 
