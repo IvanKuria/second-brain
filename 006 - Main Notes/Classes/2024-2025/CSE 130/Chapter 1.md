@@ -26,3 +26,26 @@ Teacher: **Dr. Veenstra
 #### Tradeoffs
 - what will I need to sacrifice for more of something else
 
+### 4 Signs of Complexity
+
+1. Large number of *components*
+2. Large Number of *interconnections*
+3. Lots of *irregularities*
+4. Long description(*high information content*)
+
+### Sources of Complexity
+#### 1. Interactions of requirements
+- A general purpose tool that can do $X$ and other things is more complex than a special purpose tool that can only do $X$
+- general purpose tool
+![[Pasted image 20250403103739.png | 400]]
+- special purpose tool
+![[Pasted image 20250403103824.png | 400]]
+
+#### 2. Increasing efficiency, utilization, or other measure of "goodness"
+- i.e. car engines
+	- *1960 Chevy*(simple)
+		- burn gasoline, get mechanical power
+	- *2015 Honda CR-V*(much more complex)
+		- adds: more efficient, lower emissions(better for the environment), more durable
+
+
