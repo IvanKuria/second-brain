@@ -29,7 +29,7 @@ Teacher: **Dr. Veenstra
 ### 4 Signs of Complexity
 
 1. Large number of *components*
-2. Large Number of *interconnections*
+2. Large number of *interconnections*
 3. Lots of *irregularities*
 4. Long description(*high information content*)
 
@@ -49,3 +49,11 @@ Teacher: **Dr. Veenstra
 		- adds: more efficient, lower emissions(better for the environment), more durable
 
 
+### What increase complexity
+
+#### Principle of escalating complexity
+- adding a requirement increases complexity out of proportion
+- i.e. adding a cache requires doubling the implementation
+
+#### Principle of excessive generality
+- pretty self-explanatory
