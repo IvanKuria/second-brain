@@ -7,7 +7,7 @@ Teacher: **Prof. Nath
 
 ## Moore's Law
 - [[Moore's law]] states that integrated circuit resources double every 18-24 months.
-- important because rather than designing based on where current circuit resources are, we can anticipate where they will be in the future.
+- important because rather than designing based on where current circuit resources are, we can anticipate where they will be in the future. 
 
 ## Abstraction
 - lower-level details are hidden as a means to offer a simpler model at higher levels
