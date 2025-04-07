@@ -20,3 +20,36 @@ Teacher: **Prof. Nath
 1. Using multiple cores
 2. Parallelism
 3. Speculative prediction
+
+# Performance
+
+## Latency
+- [[latency]] is the interval between stimulation and response(basically how long it takes to do a task)
+
+### Base Units
+
+#### Clock Period
+- [[clock period]] refers to the duration of a clock cycle
+	- i.e. $250ps = 0.25ns = 250 * 10^{-12}s$
+	- *this is the basic unit of time in all computers*
+
+#### Clock Frequency/Rate/Speed
+- [[clock frequency]]/[[clock rate]]/[[clock speed]] is cycles per second
+	- i.e. $4.0GHz = 4000MHz = 4.0 * 10^9Hz$
+
+![[Pasted image 20250407142511.png]]
+
+### Execution Time
+- Execution Time = Cycles Per Program * Clock Cycle Time
+- which is also the same as = Cycles Per Program / Clock Frequency/Rate/Speed
+
+#### Ways to Increase Execution Time
+1. Reduce the Cycles Per Program
+2. Increase the Clock Frequency
+
+## Bandwidth
+- [[bandwidth]] is also known as [[throughput]]
+- bandwidth refers to how much of $X$ work is done in a given time.
+
+
+  
