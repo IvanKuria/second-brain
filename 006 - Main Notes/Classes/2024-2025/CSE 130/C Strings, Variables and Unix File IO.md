@@ -12,9 +12,21 @@ Teacher: **Dr. Veenstra
 2. Strings can't have zero bytes
 	- i.e. ![[Pasted image 20250414072419.png | 500]]
 
-### What is sizeof(t)?
+#### What is sizeof(t)?
 - 10
 
-### What is strlen(t)?
+#### What is strlen(t)?
 - 3
 
+### Static Keyword
+``` c
+int main(void) {
+	static char *t;
+	...
+
+	return 0;
+}
+```
+
+- it acts both as *a local scope var* and can be used as *"global storage"*
+- like other [[global variables]], it gets initialized to 0(*0x00000000*)
