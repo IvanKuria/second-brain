@@ -3,7 +3,7 @@ Subject: #computer-science #computer-architecture
 Date: 2025-04-14
 Teacher: **Dr. Veenstra
 
-# Topic
+# Lecture 04
 
 ## C Strings
 - a c string is a bunch of bytes ending with 0
