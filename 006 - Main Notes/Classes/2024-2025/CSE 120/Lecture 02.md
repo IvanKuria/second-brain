@@ -51,5 +51,22 @@ Teacher: **Prof. Nath
 - [[bandwidth]] is also known as [[throughput]]
 - bandwidth refers to how much of $X$ work is done in a given time.
 
+![[Pasted image 20250416152214.png]]
 
+## Speed Up
+- performance overall improved execution for a whole problem
+
+![[Pasted image 20250416152400.png | 300]]
+
+- for future reference, use (times or x)
+	- i.e. 2.1x speed up
+
+*is throughput the inverse of latency?*
+	*yes* if the tasks are done one after the other
+	*no* if there tasks are done in parallel
+
+## Little's Law
+
+### Parallelism
+- parallelism is equal to throughput
   
