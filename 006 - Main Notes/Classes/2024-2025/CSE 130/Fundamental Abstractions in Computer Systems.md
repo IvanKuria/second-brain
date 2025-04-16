@@ -61,3 +61,6 @@ Teacher: **Dr. Veenstra
 - Lamport "Space-Time Diagrams"
 
 ![[Pasted image 20250416102906.png]]
+
+*which is better; low read latency or low write latency?*
+*answer*: low read latency because we can make writes asynchronous!
