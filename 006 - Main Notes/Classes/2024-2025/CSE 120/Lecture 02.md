@@ -83,3 +83,11 @@ $$ = \frac{1}{\frac{F_{parallel}}{n} + (1 - F_{parallel})}$$
 - $F_{parallel}$ = fraction of time improved
 - $n$ = how much faster that part gets
 
+### Example
+
+- What is the overall speedup if half of the execution sped up by 2x?
+
+$F_{parallel}$ = 0.5
+$n$ = 2
+
+$$ = \frac{1}{\frac{0.5}{2} + (1 - 0.5)}$$
