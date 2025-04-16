@@ -63,10 +63,23 @@ Teacher: **Prof. Nath
 
 *is throughput the inverse of latency?*
 	*yes* if the tasks are done one after the other
-	*no* if there tasks are done in parallel
+	*no* if the tasks are done in parallel
 
 ## Little's Law
 
+- [[Little's Law]] refers to the average number of transactions in a stable system is equal to their average arrival rate, multiplied by their average time in the system.
+
 ### Parallelism
-- parallelism is equal to throughput
-  
+- [[parallelism]] is equal to throughput(bandwidth) * latency
+
+
+## Amdahl's Law
+
+- refers to the maximum possible speed up achievable by optimizing a part of a system
+
+$$ = \frac{1}{\frac{F_{parallel}}{n} + (1 - F_{parallel})}$$
+
+
+- $F_{parallel}$ = fraction of time improved
+- $n$ = how much faster that part gets
+
