@@ -1,9 +1,9 @@
 Class: [[CSE 130]]
-Subject: #computer-science #computer-architecture 
+Subject: #computer-science #computer-systems 
 Date: 2025-04-14
 Teacher: **Dr. Veenstra
 
-# Lecture 04
+# C Strings, Variables and Unix File IO
 
 ## C Strings
 - a c string is a bunch of bytes ending with 0

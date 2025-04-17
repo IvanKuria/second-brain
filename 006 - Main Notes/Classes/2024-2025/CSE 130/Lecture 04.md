@@ -1,9 +1,9 @@
 Class: [[CSE 130]]
-Subject: #computer-science #computer-architecture 
+Subject: #computer-science #computer-systems 
 Date: 2025-04-16
 Teacher: **Dr. Veenstra
 
-# Fundamental Abstractions
+# Fundamental Abstractions in Computer Systems
 
 ## Tasks that a System Does
 1. Store(essentially remember things)
@@ -64,3 +64,28 @@ Teacher: **Dr. Veenstra
 
 *which is better; low read latency or low write latency?*
 *answer*: low read latency because we can make writes asynchronous!
+
+### Granularity
+- what are the sizes of the values?
+	- **registers(name/value map)
+	- **bytes(Cache/RAM)
+	- **block-Addressable(SSD/HDD)
+
+#### Flash Memory
+- Memory-cell tech makes writing complicated
+	- *writing a 1*(called "erasing") must happen on an entire bank
+	- *writing a 0*(called "programming") can happen on an individual bit
+- NOR Flash memory *reads words*
+- NAND Flash memory *reads pages
+
+### Failure Rate
+
+#### Block Devices
+- these fail frequently
+
+#### DRAM
+- fails less frequently
+
+#### RAM
+- rarely fail
+- most systems ignore the failures since fixing them would be expensive!

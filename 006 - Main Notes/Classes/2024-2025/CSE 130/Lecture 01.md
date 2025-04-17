@@ -1,5 +1,5 @@
 Class: [[CSE 130]]
-Subject: #computer-science 
+Subject: #computer-science #computer-systems 
 Date: 2025-03-31
 Teacher: **Dr. Veenstra
 
