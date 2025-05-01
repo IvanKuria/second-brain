@@ -1,7 +1,7 @@
 Class: [[CSE 130]]
 Subject: #computer-science #computer-systems 
 Date: 2025-04-30
-Teacher: **Dr. Veenstra
+Teacher: Dr. **Veenstra**
 
 # Modularity
 
@@ -23,5 +23,11 @@ Teacher: **Dr. Veenstra
 - essentially use explicit messages for interactions between modules
 	- *client*: initiates a request
 	- *server*: responds to the request with a *response* or *reply*
+### Advantages
+- independent memory and interpreters
+- less [[fate sharing]], more fault containment
+
+### Communication
+- makes use of a "wire" (real or virtual); models like a web browser/server
  
 
