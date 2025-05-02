@@ -15,3 +15,12 @@ Teacher: **Dr. Veenstra
 - pointers(need swizzling/unswizzling)
 ![[Pasted image 20250501173525.png]]
 
+## Buffered Communication & Intermediaries
+
+- used when client/server aren't simultaneously available
+	- i.e. *Email, Publish/Subscribe*
+- intermediaries store and forward messages
+
+### Modes
+- *Push*: sender initiates
+- *Pull*: receiver initiates
