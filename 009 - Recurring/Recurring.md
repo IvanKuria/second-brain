@@ -16,7 +16,8 @@
 - [x] call Brian #family 🔁 every week on Wednesday 📅 2025-03-05 ✅ 2025-03-10
 - [x] call Brian #family 🔁 every week on Wednesday 📅 2025-02-26 ✅ 2025-03-01
 - [x] call Brian #family 🔁 every week on Wednesday 📅 2025-02-19 ✅ 2025-02-23
-- [ ] call Brian #family 🔁 every week on Wednesday 📅 2025-05-07
+- [ ] call Brian #family 🔁 every week on Wednesday 📅 2025-05-14
+- [x] call Brian #family 🔁 every week on Wednesday 📅 2025-05-07 ✅ 2025-05-16
 - [x] call Brian #family 🔁 every week on Wednesday 📅 2025-04-30 ✅ 2025-05-01
 - [x] call Brian #family 🔁 every week on Wednesday 📅 2025-04-23 ✅ 2025-05-01
 - [x] call Brian #family 🔁 every week on Wednesday 📅 2025-04-22 ✅ 2025-05-01
